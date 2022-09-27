@@ -1,0 +1,17 @@
+/* Add application styles & imports to this file! */
+@import '~@ionic/angular/css/ionic.bundle.css';
+
+:root {
+  --ion-font-family: 'Varela Round', sans-serif;
+  /* barra superior */
+  --ion-toolbar-background: #922105;
+  --ion-toolbar-color: white;
+
+  --ion-background-color: white;
+
+  /* barra inferior */
+
+  --ion-tab-bar-backgound: black;
+  --ion-tab-bar-color: #44578a;
+  --ion-tab-bar-color-selected: black;
+}
